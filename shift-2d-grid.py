@@ -22,6 +22,7 @@ class Solution():
     for column in grid[0]:
       columns += 1
     return (gridList, (rows, columns))
+    
   def shiftGrid(self, grid, shift):
     # get data for operating on grid
     gridData = self.prepGrid(grid)
