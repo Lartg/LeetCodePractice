@@ -18,6 +18,4 @@ by looking at each count of base ten
 convert the int to a string
 length of string => how to assemble dict of numerals
 
-
-
 '''
